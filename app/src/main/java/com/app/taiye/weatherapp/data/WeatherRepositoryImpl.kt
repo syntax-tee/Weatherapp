@@ -3,7 +3,7 @@ package com.app.taiye.weatherapp.data
 
 import com.app.taiye.weatherapp.data.db.dao.ForecastDao
 import com.app.taiye.weatherapp.data.db.mapper.DbMapper
-import com.raywenderlich.android.data.network.client.WeatherApiClient
+import com.app.taiye.weatherapp.data.network.client.WeatherApiClient
 import com.raywenderlich.android.data.network.mapper.ApiMapper
 import com.app.taiye.weatherapp.domain.model.Location
 import com.app.taiye.weatherapp.domain.repository.WeatherRepository

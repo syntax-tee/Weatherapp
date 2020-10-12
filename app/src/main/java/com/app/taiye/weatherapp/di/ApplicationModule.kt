@@ -4,10 +4,10 @@ package com.app.taiye.weatherapp.di
 import com.app.taiye.weatherapp.data.WeatherRepositoryImpl
 import com.app.taiye.weatherapp.data.db.ForecastDatabase
 import com.app.taiye.weatherapp.data.db.mapper.DbMapper
-import com.raywenderlich.android.data.db.mapper.DbMapperImpl
-import com.raywenderlich.android.data.network.client.WeatherApiClient
+import com.app.taiye.weatherapp.data.db.mapper.DbMapperImpl
+import com.app.taiye.weatherapp.data.network.client.WeatherApiClient
 import com.raywenderlich.android.data.network.mapper.ApiMapper
-import com.raywenderlich.android.data.network.mapper.ApiMapperImpl
+import com.app.taiye.weatherapp.data.network.mapper.ApiMapperImpl
 import com.app.taiye.weatherapp.domain.repository.WeatherRepository
 import com.app.taiye.weatherapp.ui.home.mapper.HomeViewStateMapper
 import com.app.taiye.weatherapp.ui.home.mapper.HomeViewStateMapperImpl
