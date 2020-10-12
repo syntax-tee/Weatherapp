@@ -8,7 +8,6 @@ import com.raywenderlich.android.data.network.model.ApiLocationDetails
 import com.app.taiye.weatherapp.domain.model.Forecast
 import com.app.taiye.weatherapp.domain.model.Location
 import com.app.taiye.weatherapp.domain.model.LocationDetails
-import com.raywenderlich.android.data.network.mapper.ApiMapper
 
 class ApiMapperImpl : ApiMapper {
 
