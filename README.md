@@ -1,4 +1,4 @@
-# Weather App
+# Easy Weather App
 
 #### Android app that let's you search for weather forcast by city name.
 
