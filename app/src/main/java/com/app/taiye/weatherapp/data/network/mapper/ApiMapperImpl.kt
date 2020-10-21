@@ -2,9 +2,9 @@
 
 package com.app.taiye.weatherapp.data.network.mapper
 
-import com.raywenderlich.android.data.network.model.ApiForecast
-import com.raywenderlich.android.data.network.model.ApiLocation
-import com.raywenderlich.android.data.network.model.ApiLocationDetails
+import com.app.taiye.weatherapp.data.network.model.ApiForecast
+import com.app.taiye.weatherapp.data.network.model.ApiLocation
+import com.app.taiye.weatherapp.data.network.model.ApiLocationDetails
 import com.app.taiye.weatherapp.domain.model.Forecast
 import com.app.taiye.weatherapp.domain.model.Location
 import com.app.taiye.weatherapp.domain.model.LocationDetails

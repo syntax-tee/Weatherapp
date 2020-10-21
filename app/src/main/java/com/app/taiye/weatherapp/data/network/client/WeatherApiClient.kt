@@ -1,8 +1,8 @@
 
 package com.app.taiye.weatherapp.data.network.client
 
-import com.raywenderlich.android.data.network.model.ApiLocation
-import com.raywenderlich.android.data.network.model.ApiLocationDetails
+import com.app.taiye.weatherapp.data.network.model.ApiLocation
+import com.app.taiye.weatherapp.data.network.model.ApiLocationDetails
 import retrofit2.http.GET
 import retrofit2.http.Path
 import retrofit2.http.Query

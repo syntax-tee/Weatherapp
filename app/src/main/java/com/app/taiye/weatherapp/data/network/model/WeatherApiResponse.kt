@@ -1,5 +1,5 @@
 
-package com.raywenderlich.android.data.network.model
+package com.app.taiye.weatherapp.data.network.model
 
 import com.squareup.moshi.Json
 
